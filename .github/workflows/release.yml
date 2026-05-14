@@ -29,7 +29,7 @@ jobs:
 
     - name: Build EXE with PyInstaller
       run: |
-        pyinstaller --onefile --name=file_optimiser --icon=icon.ico --version-file=version_info.txt main.py
+        pyinstaller --onefile --windowed --name=file_optimiser --icon=icon.ico --version-file=version_info.txt main.py
 
     - name: Update Latest Release
       uses: ncipollo/release-action@v1

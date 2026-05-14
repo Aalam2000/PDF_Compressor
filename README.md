@@ -1,21 +1,18 @@
 # PDF Compressor
-
-A simple and efficient utility to compress and optimize PDF documents.
+A simple and efficient utility to compress and optimize PDF documents and images.
 
 ## 🚀 Download Executable for Windows
-
 You can download the latest pre-compiled standalone executable below (no Python installation required):
 
-💾 **[https://github.com/Aalam2000/PDF_Compressor/releases/latest/download/file_optimiser.exe)**
-
+💾 **[Download file_optimiser.exe](https://github.com/Aalam2000/PDF_Compressor/releases/latest/download/file_optimiser.exe)**
 
 ## ✨ Features
 * Substantially reduces PDF file size for email sharing.
+* Compresses images for faster web publishing.
 * Keeps text layers, hyperlinks, and document structure intact.
 * Portable single-file executable for Windows.
 
 ## 🛠 Developer Setup
-
 ### Requirements
 * Python 3.10 or higher
 * Windows 10 / 11
