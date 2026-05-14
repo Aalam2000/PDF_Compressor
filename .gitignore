@@ -1,0 +1,19 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Временные папки сборки PyInstaller
+build/
+*.spec
+
+# Логи и кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Файлы настроек IDE (опционально)
+.idea/
+.vscode/
