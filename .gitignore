@@ -5,6 +5,7 @@ ENV/
 
 # Временные папки сборки PyInstaller
 build/
+dist/
 *.spec
 
 # Логи и кэш

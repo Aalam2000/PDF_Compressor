@@ -6,7 +6,7 @@ A simple and efficient utility to compress and optimize PDF documents.
 
 You can download the latest pre-compiled standalone executable below (no Python installation required):
 
-💾 **[Download file_optimiser.exe](https://github.com)**
+💾 **[Download file_optimiser.exe](https://github.com/Aalam2000/PDF_Compressor/releases/download/latest/file_optimiser.exe)**
 
 
 ## ✨ Features
